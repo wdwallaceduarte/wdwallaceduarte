@@ -1,7 +1,6 @@
-
-<div align="center">
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte)
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte" />
+</p>
 
 # 🧑‍💻 Olá, sou Wallace Duarte
 ## Bem-Vindos(as) ao meu GitHub!
@@ -13,7 +12,7 @@
  <!--Forma de cirar links 
  [LinckedIn - Wallace Duarte](www.linkedin.com/in/wallace-duarte-9a241a29a)-->
 
-<p align="left">   
+<p align="center">   
      <a href="https://github.com/wdwallaceduarte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
