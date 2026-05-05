@@ -1,6 +1,6 @@
 
 # 🧑‍💻 Olá, sou Wallace Duarte
-## Bem-Vindo(a) ao meu GitHub!
+## Bem-Vindos(as) ao meu GitHub!
 
 **`Desenvolvedor FullStack`**
 
@@ -9,7 +9,7 @@
  <!--Forma de cirar links 
  [LinckedIn - Wallace Duarte](www.linkedin.com/in/wallace-duarte-9a241a29a)-->
 
-<p align="left">   
+<p align="center">   
      <a href="https://github.com/wdwallaceduarte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
@@ -34,9 +34,7 @@
             title="LinkedIn" 
             src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
         />
-    </a>
- 
-    
+    </a>    
 </p>
 
 ---
@@ -44,7 +42,7 @@
 ### 🤖 Linguagens e Tecnologias
 
 <img 
-    align="left" 
+    align="center" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -52,7 +50,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="CSS" 
     title="CSS"
     width="30px" 
@@ -60,7 +58,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -68,7 +66,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -76,7 +74,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="React"
     title="React" 
     width="30px" 
@@ -84,7 +82,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -92,7 +90,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
@@ -100,7 +98,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
-    align="left" 
+    align="center" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -108,7 +106,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <!-- <img 
-    align="left" 
+    align="center" 
     alt="SASS" 
     title="SASS"
     width="30px" 
@@ -116,7 +114,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 /> -->
 <!-- <img 
-    align="left" 
+    align="center" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -124,7 +122,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 /> -->
 <!-- <img 
-    align="left" 
+    align="center" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -132,7 +130,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
 /> -->
 <!-- <img 
-    align="left" 
+    align="center" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -140,7 +138,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 /> -->
 <img 
-    align="left" 
+    align="center" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -148,7 +146,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <!-- <img 
-    align="left" 
+    align="center" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -161,8 +159,38 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  &nbsp;
+  <img 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
+
+<!-- ### 📊 Estatísticas 
+
+<p>
+  <img 
+    align="center" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p> 
+-->
