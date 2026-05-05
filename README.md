@@ -28,7 +28,7 @@
         <img 
             alt="Repositorios" 
             title="Meus Repositorios" 
-            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repositories-blue?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
     <!-- Seguidores do GitHub -->
