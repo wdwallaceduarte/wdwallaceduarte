@@ -28,14 +28,16 @@ Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologi
 
 <p align="center">
 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<div align="center">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&emsp;
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&emsp;
+</div>
 
 </p>
 
@@ -52,10 +54,10 @@ Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologi
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [Today I Learned](https://github.com/wdwallaceduarte/today-i-learned)  
+- 🔗 [Projeto 1](https://github.com/wdwallaceduarte/today-i-learned)  
   Aplicação web desenvolvida com React + back-end Supabase/Firebase. 
 
-- 🔗 [Sistema Escolar](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
+- 🔗 [Projeto 2](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
   API REST utilizando Node.js e boas práticas de backend.
 
 ---
