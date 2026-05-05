@@ -50,13 +50,13 @@ Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologi
 
 ---
 
-<!-- ## 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-- 🔗 [Projeto 1](#)  
-  Aplicação web desenvolvida com React e foco em responsividade.
+- 🔗 [Projeto 1](https://github.com/wdwallaceduarte/today-i-learned)  
+  Aplicação web desenvolvida com React + back-end Supabase/Firebase. 
 
-- 🔗 [Projeto 2](#)  
-  API REST utilizando Node.js e boas práticas de backend. -->
+- 🔗 [Projeto 2](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
+  API REST utilizando Node.js e boas práticas de backend.
 
 ---
 
