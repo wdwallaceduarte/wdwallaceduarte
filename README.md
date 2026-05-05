@@ -24,6 +24,9 @@
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>  -->
+     <a href="https://github.com/wdwallaceduarte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
     <a href="https://github.com/wdwallaceduarte?tab=repositories">
         <img 
             alt="Repositorios" 
@@ -39,18 +42,14 @@
             src="https://custom-icon-badges.demolab.com/github/followers/wdwallaceduarte?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/wallace-duarte-9a241a29a
-
-">
+    <a href="https://www.linkedin.com/in/wallace-duarte-9a241a29a">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
             src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
         />
     </a>
-  <a href="https://github.com/wdwallaceduarte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+ 
     
 </p>
 
