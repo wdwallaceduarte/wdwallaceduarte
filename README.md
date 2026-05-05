@@ -36,7 +36,7 @@
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/wdwallaceduarte?color=black&labelColor=black&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/wdwallaceduarte?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://github.com/wdwallaceduarte?tab=repositories">
@@ -46,6 +46,9 @@
             src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
         />
     </a>
+  <a href="https://github.com/wdwallaceduarte">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
     
 </p>
 
