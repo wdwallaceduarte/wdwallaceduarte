@@ -1,6 +1,6 @@
 
 
-    ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte)
 
 # 🧑‍💻 Olá, sou Wallace Duarte
 ## Bem-Vindos(as) ao meu GitHub!
