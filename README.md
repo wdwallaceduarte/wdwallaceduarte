@@ -162,37 +162,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-git-master-wdwallaceduartes-projects.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  &nbsp;
-  <img 
-    alt="Top Linguagens" 
-    height="200" 
-    src="https://github-readme-stats-git-master-wdwallaceduartes-projects.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
 </p>
 
-
-<!-- ### 📊 Estatísticas -->
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p> 
-
+---
