@@ -1,6 +1,6 @@
 
 <div align="center">
-    ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte)
 </div>
 
 # 🧑‍💻 Olá, sou Wallace Duarte
