@@ -39,10 +39,12 @@
             src="https://custom-icon-badges.demolab.com/github/followers/wdwallaceduarte?color=181717&labelColor=181717&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/wdwallaceduarte?tab=repositories">
+    <a href="https://www.linkedin.com/in/wallace-duarte-9a241a29a
+
+">
         <img 
-            alt="Repositorios" 
-            title="Meus Repositorios" 
+            alt="LinkedIn" 
+            title="LinkedIn" 
             src=https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white
         />
     </a>
