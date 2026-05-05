@@ -9,21 +9,7 @@
  <!--Forma de cirar links 
  [LinckedIn - Wallace Duarte](www.linkedin.com/in/wallace-duarte-9a241a29a)-->
 
-<p align="left">
-    <!-- <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="LinkedIn Wallace Duarte" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=LinkedIn&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>  -->
+<p align="left">   
      <a href="https://github.com/wdwallaceduarte">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
@@ -175,12 +161,22 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  &nbsp;
+  <img 
+    alt="Top Linguagens" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&layout=compact&theme=tokyonight)
 
-
-<!-- ### 📊 Estatísticas
+<!-- ### 📊 Estatísticas -->
 
 <p>
   <img 
@@ -188,15 +184,15 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p> -->
+</p> 
 
