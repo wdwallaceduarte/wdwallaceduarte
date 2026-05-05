@@ -20,13 +20,11 @@
 
 Sou um desenvolvedor em constante evolução, focado em criar aplicações web modernas, performáticas e bem estruturadas.
 
-Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologias para evoluir como profissional.
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; max-width: 100%;">
 
 <div align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&emsp;
@@ -54,10 +52,10 @@ Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologi
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [Projeto 1](https://github.com/wdwallaceduarte/today-i-learned)  
-  Aplicação web desenvolvida com React + back-end Supabase/Firebase. 
+- 🔗 [Today I Learned](https://github.com/wdwallaceduarte/today-i-learned)  
+  Aplicação web desenvolvida com React e foco em responsividade.
 
-- 🔗 [Projeto 2](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
+- 🔗 [Sistena escolar](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
   API REST utilizando Node.js e boas práticas de backend.
 
 ---
@@ -69,7 +67,7 @@ Gosto de transformar ideias em código e estou sempre aprendendo novas tecnologi
 <a href="https://github.com/wdwallaceduarte">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
-
+&emsp;
 <a href="https://www.linkedin.com/in/wallace-duarte-9a241a29a">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
