@@ -3,8 +3,9 @@
 </p>
 
 <div align="center">
-  # 🧑‍💻 Olá, sou Wallace Duarte
+<h1>🧑‍💻 Olá, sou Wallace Duarte</h1>
 </div>
+
 ## Bem-Vindos(as) ao meu GitHub!
 
 **`Desenvolvedor FullStack`**
