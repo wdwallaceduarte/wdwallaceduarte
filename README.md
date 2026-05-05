@@ -1,6 +1,6 @@
 
 # 🧑‍💻 Olá, sou Wallace Duarte
-## Bem-Vindos(as) ao meu GitHub!
+## Bem-Vindo(a) ao meu GitHub!
 
 **`Desenvolvedor FullStack`**
 
