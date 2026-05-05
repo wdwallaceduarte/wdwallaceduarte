@@ -2,9 +2,9 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wdwallaceduarte.wdwallaceduarte" />
 </p>
 
-<p align="center">
+<div align="center">
   # 🧑‍💻 Olá, sou Wallace Duarte
-</p>
+</div>
 ## Bem-Vindos(as) ao meu GitHub!
 
 **`Desenvolvedor FullStack`**
