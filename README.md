@@ -44,8 +44,11 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&locale=pt-br" />
+  <img height="180" src="https://streak-stats.demolab.com?user=wdwallaceduarte&theme=tokyonight&locale=pt_BR" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wdwallaceduarte&theme=tokyonight" />
 </p>
 
 ---
