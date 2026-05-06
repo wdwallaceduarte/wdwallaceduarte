@@ -55,7 +55,7 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 - 🔗 [Today I Learned](https://github.com/wdwallaceduarte/today-i-learned)  
   Aplicação web desenvolvida com React e foco em responsividade.
 
-- 🔗 [Sistena escolar](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
+- 🔗 [Sistema escolar](https://github.com/wdwallaceduarte/sistema_escolar_backend)  
   API REST utilizando Node.js e boas práticas de backend.
 
 ---
