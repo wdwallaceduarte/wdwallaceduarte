@@ -80,10 +80,10 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 
 > Evoluir como desenvolvedor FullStack, construindo projetos reais, consistentes e escaláveis para o mercado de trabalho.
 
-## 🐍 Minhas contribuições
+<!-- ## 🐍 Minhas contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
   <img alt="snake animation" src="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
