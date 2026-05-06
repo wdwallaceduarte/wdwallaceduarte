@@ -44,11 +44,8 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=wdwallaceduarte&theme=tokyonight&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wdwallaceduarte&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wdwallaceduarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdwallaceduarte&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&locale=pt-br" />
 </p>
 
 ---
@@ -82,3 +79,11 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 ## 🎯 Objetivo atual
 
 > Evoluir como desenvolvedor FullStack, construindo projetos reais, consistentes e escaláveis para o mercado de trabalho.
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://github.com/wdwallaceduarte/wdwallaceduarte/blob/output/github-contribution-grid-snake.svg">
+</picture>
