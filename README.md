@@ -82,5 +82,5 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 ## 🐍 Minhas contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wdwallaceduarte/wdwallaceduarte/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/wdwallaceduarte/wdwallaceduarte/output/github-contribution-grid-snake.gif" alt="snake animation" />
 </p>
