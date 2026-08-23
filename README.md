@@ -63,7 +63,7 @@ Sou um desenvolvedor em constante evolução, focado em criar aplicações web m
 - 🔗 [ACME](https://github.com/wdwallaceduarte/acme)  
   API REST utilizando Node.js e boas práticas de backend.
 
-- 🔗 [ACME]([https://github.com/wdwallaceduarte/acme](https://github.com/wdwallaceduarte/carteira-de-ivestimentos-rust))  
+- 🔗 [Carteira de Investimentos](https://github.com/wdwallaceduarte/carteira-de-ivestimentos-rust)
   Carteira de Investimentos — Fullstack RUST
 
 ---
